@@ -15,7 +15,7 @@ def find_version(version_file):
 
 setup(
     name="{{ cookiecutter.plugin_name }}",
-    version=find_version("{{ cookiecutter.package_name }}/__main__.py"),
+    version=find_version("{{ cookiecutter.package_name }}/__version__.py"),
     description="{{ cookiecutter.description }}",
     url="{{ cookiecutter.url }}",
     author="{{ cookiecutter.author }}",
