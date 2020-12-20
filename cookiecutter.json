@@ -1,0 +1,10 @@
+{
+	"plugin_name": "",
+	"package_name": "{{ cookiecutter.plugin_name }}",
+	"version": "0.0.1",
+	"description": "",
+	"url": "",
+	"author": "",
+	"author_email": "",
+	"license": "MIT"
+}
